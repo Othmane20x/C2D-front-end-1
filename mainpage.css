@@ -187,12 +187,13 @@ body{
   width:90%;
   color:white;
   text-align:center;
-  font-size: 26px;
+  font-size: 24px;
   font-weight: 900;
   padding: inherit;
   text-transform: uppercase;
   font-family: 'Source Sans Pro', sans-serif;
 }
+
 
 .about{
   color:white;
